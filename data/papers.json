@@ -1,0 +1,474 @@
+[
+  {
+    "title": "Beyond Positional Encoding: A 5D Spatio-Directional Hash Encoding",
+    "authors": "Philippe Weier, Lukas Bode, Philipp Slusallek, Adrian Jarabo, Sébastien Speierer",
+    "venue": "SIGGRAPH",
+    "year": 2026,
+    "pdf": "papers_downloaded/weier2026beyond.pdf",
+	"code": "https://github.com/facebookresearch/spatio_directional_hash_encoding"
+  },  
+  {
+    "title": "One-more-vertex Next-Event Estimation with Hierarchical Geometry Sampling",
+    "authors": "Jorge Garcia-Pueyo, Nestor Monzon, Adrian Jarabo, Adolfo Muñoz",
+    "venue": "Computer Graphics Forum",
+    "year": 2026,
+    "pdf": "https://graphics.unizar.es/projects/OneMoreVertex26/static/omv_nee_paper_26.pdf"
+  },
+  {
+    "title": "High-Performance Real-Time Implicit Strand-Based Hair Rendering via Software Rasterization",
+    "authors": "Lukas Lipp, Adrian Jarabo, Michael Wimmer, Lukas Bode",
+    "venue": "Proceedings of HPG",
+    "year": 2026,
+    "pdf": "https://arxiv.org/pdf/2607.04230"
+  },
+  {
+    "title": "Generalized non-exponential Gaussian splatting",
+    "authors": "Sébastien Speierer, Adrian Jarabo",
+    "venue": "arXiv preprint arXiv:2603.02887",
+    "year": 2026,
+    "pdf": "https://arxiv.org/pdf/2603.02887"
+  },
+  {
+    "title": "Wispy to Voluminous: Prior-free Multi-view Capture of Strand-level Facial Hair",
+    "authors": "Jaeseong Lee, Giljoo Nam, Adrian Jarabo, Carlos Aliaga",
+    "venue": "arXiv preprint arXiv:2606.08041",
+    "year": 2026,
+    "pdf": "https://arxiv.org/abs/2606.08041"
+  },
+  {
+    "title": "Spectral Subsurface Scattering from RGB via Biophysical Skin Inversion",
+    "authors": "Carlos Aliaga, Adrian Jarabo",
+    "venue": "arXiv preprint arXiv:2606.27604",
+    "year": 2026,
+    "pdf": "https://arxiv.org/abs/2606.27604"
+  },  
+  {
+    "title": "A comprehensive study of time-of-flight non-line-of-sight imaging",
+    "authors": "Julio Marco, Adrian Jarabo, Ji Hyun Nam, Alberto Tosi, Diego Gutierrez, Andreas Velten",
+    "venue": "arXiv preprint arXiv:2603.09548",
+    "year": 2026,
+    "pdf": "https://arxiv.org/pdf/2603.09548"
+  },
+  {
+    "title": "Don't splat your Gaussians: Volumetric ray-traced primitives for modeling and rendering scattering and emissive media",
+    "authors": "Jorge Condor, Sebastien Speierer, Lukas Bode, Aljaz Bozic, Simon Green, Piotr Didyk, Adrian Jarabo",
+    "venue": "ACM Trans. Graph.",
+    "year": 2025,
+    "pdf": "https://arcanous98.github.io/assets/data/papers/Gaussian_tracing_meta_TOG-compressed.pdf",
+	"code": "https://github.com/facebookresearch/volumetric_primitives"
+  },
+  {
+    "title": "A realistic multi-scale surface-based cloth appearance model",
+    "authors": "Junqiu Zhu, Christophe Hery, Lukas Bode, Carlos Aliaga, Adrian Jarabo, Ling-Qi Yan, Matt Jen-Yuan Chiang",
+    "venue": "SIGGRAPH",
+    "year": 2024,
+    "pdf": "https://sites.cs.ucsb.edu/~lingqi/publications/paper_sig24cloth.pdf"
+  },
+  {
+    "title": "Practical appearance model for foundation cosmetics",
+    "authors": "Dario Lanza, Juan Raúl Padrón-Griffe, Alina Pranovich, Adolfo Muñoz, Jeppe Revall Frisvad, Adrian Jarabo",
+    "venue": "Computer Graphics Forum",
+    "year": 2024,
+    "pdf": "https://graphics.unizar.es/papers/Lanza2024Cosmetic.pdf"
+  },
+  {
+    "title": "Navigating the manifold of translucent appearance",
+    "authors": "Dario Lanza, Belen Masia, Adrian Jarabo",
+    "venue": "Computer Graphics Forum",
+    "year": 2024,
+    "pdf": "https://graphics.unizar.es/papers/Lanza2024manifold.pdf"
+  },
+  {
+    "title": "A Surface-based Appearance Model for Pennaceous Feathers",
+    "authors": "Juan Raul Padron Griffe, Dario Lanza, Adrian Jarabo, Adolfo Muñoz",
+    "venue": "Computer Graphics Forum",
+    "year": 2024,
+    "pdf": "https://graphics.unizar.es/papers/PadronGriffe2024Feathers.pdf"
+  },
+  {
+    "title": "A realistic surface-based cloth rendering model",
+    "authors": "Junqiu Zhu, Adrian Jarabo, Carlos Aliaga, Ling-Qi Yan, Matt Jen-Yuan Chiang",
+    "venue": "SIGGRAPH",
+    "year": 2023,
+    "pdf": "https://sites.cs.ucsb.edu/~lingqi/publications/paper_sig23cloth.pdf"
+  },  
+  {
+    "title": "Accelerating Hair Rendering by Learning High-Order Scattered Radiance",
+    "authors": "Aakash KT, Adrian Jarabo, Carlos Aliaga, Matt Jen-Yuan Chiang, Olivier Maury, Christophe Hery, PJ Narayanan, Giljoo Nam",
+    "venue": "Computer Graphics Forum",
+    "year": 2023,
+    "pdf": "https://cvit.iiit.ac.in/images/ConferencePapers/2023/Hair_Path_Tracing_Acceleration.pdf",
+	"code": "https://github.com/facebookresearch/HairMSNN"
+  },
+  {
+    "title": "A hyperspectral space of skin tones for inverse rendering of biophysical skin properties",
+    "authors": "Carlos Aliaga, Menqi Xia, Xao Xie, Adrian Jarabo, Gustav Braun, Christophe Hery",
+    "venue": "Computer Graphics Forum",
+    "year": 2023,
+    "pdf": "https://www.aliagabadal.com/data/papers/SkinAlbedo_Rendering2023.pdf",
+	"code": "https://github.com/facebookresearch/BioSkin"
+  },
+  {
+    "title": "A biologically-inspired appearance model for snake skin",
+    "authors": "Juan Raul Padron-Griffe, Diego Bielsa Adrian Jarabo, Adolfo Muñoz",
+    "venue": "Proceedings of CEIG",
+    "year": 2023,
+    "pdf": "https://graphics.unizar.es/papers/2023_PadronGriffe_SnakeSkinAppearance.pdf"
+  },
+  {
+    "title": "Transient Imaging",
+    "authors": "Adrian Jarabo",
+    "venue": "Encyclopedia of Color Science and Technology",
+    "year": 2023
+  },
+  {
+    "title": "Non-line-of-sight imaging in the presence of scattering media using phasor fields",
+    "authors": "Pablo Luesia, Miguel Crespo, Adrian Jarabo, Albert Redo-Sanchez",
+    "venue": "Optics Letters",
+    "year": 2022,
+    "pdf": "https://graphics.unizar.es/papers/2022_Luesia_Scattering.pdf"
+  },  
+  {
+    "title": "A learned radiance-field representation for complex luminaires",
+    "authors": "Jorge Condor, Adrian Jarabo",
+    "venue": "Proceedings of EGSR",
+    "year": 2022,
+    "pdf": "https://graphics.unizar.es/papers/Condor2022Luminaires.pdf"
+  },  
+  {
+    "title": "On the influence of dynamic illumination in the perception of translucency",
+    "authors": "Dario Lanza, Adrian Jarabo, Belen Masia",
+    "venue": "Proceedings of SAP",
+    "year": 2022,
+    "pdf": "https://graphics.unizar.es/papers/2022_Lanza_Translucency.pdf"
+  },
+  {
+    "title": "Non-line-of-sight transient rendering",
+    "authors": "Diego Royo, Jorge Garc'ia, Pablo Luesia-Lahoz, Julio Marco, Diego Gutiérrez, Adolfo Muñoz, Adrian Jarabo",
+    "venue": "Computers & Graphics",
+    "year": 2022,
+    "pdf": "https://graphics.unizar.es/papers/2022_Royo_NLOS.pdf"
+  },
+  {
+    "title": "Primary-space adaptive control variates using piecewise-polynomial approximations",
+    "authors": "Miguel Crespo, Adrian Jarabo, Adolfo Muñoz",
+    "venue": "ACM Trans. Graph.",
+    "year": 2021,
+    "pdf": "https://graphics.unizar.es/papers/2021_crespo_primary.pdf"
+  },
+  {
+    "title": "Differentiable transient rendering",
+    "authors": "Shinyoung Yi, Donggun Kim, Kiseok Choi, Adrian Jarabo, Diego Gutierrez, Min H Kim",
+    "venue": "ACM Trans. Graph.",
+    "year": 2021,
+    "pdf": "https://graphics.unizar.es/papers/yi2021differentiable.pdf"
+  },
+  {
+    "title": "Beyond Mie theory: Systematic computation of bulk scattering parameters based on microphysical wave optics",
+    "authors": "Yu Guo, Adrian Jarabo, Shuang Zhao",
+    "venue": "ACM Trans. Graph.",
+    "year": 2021,
+    "pdf": "https://graphics.unizar.es/papers/guo2021beyond.pdf"
+  },
+  {
+    "title": "Virtual light transport matrices for non-line-of-sight imaging",
+    "authors": "Julio Marco, Adrian Jarabo, Ji Hyun Nam, Xiaochun Liu, Miguel Ángel Cosculluela, Andreas Velten, Diego Gutierrez",
+    "venue": "Proceedings of ICCV",
+    "year": 2021,
+    "pdf": "https://graphics.unizar.es/papers/2021_marco_virtual.pdf"
+  },
+  {
+    "title": "A General Framework for Pearlescent Materials",
+    "authors": "Ibón Guillén, Julio Marco, Diego Gutierrez, Wenzel Jakob, Adrian Jarabo",
+    "venue": "ACM Trans. Graph.",
+    "year": 2020,
+    "pdf": "https://graphics.unizar.es/papers/Guillen_TOG2020_Pearlescence.pdf"
+  },
+  {
+    "title": "Computing the bidirectional scattering of a microstructure using scalar diffraction theory and path tracing",
+    "authors": "Viggo Falster, Adrian Jarabo, Jeppe Revall Frisvad",
+    "venue": "Computer Graphics Forum",
+    "year": 2020,
+    "pdf": "https://graphics.unizar.es/papers/Falster20-waveScalar.pdf"
+  },
+  {
+    "title": "On the effect of reflectance on phasor field non-line-of-sight imaging",
+    "authors": "Ibón Guillén, Xiaochun Liu, Andreas Velten, Diego Gutierrez, Adrian Jarabo",
+    "venue": "Proceedings of ICASSP",
+    "year": 2020,
+    "pdf": "https://graphics.unizar.es/papers/Guillen_ICASSP2020_PhasorFieldsBRDF.pdf"
+  },
+  {
+    "title": "Non-line-of-sight imaging using phasor-field virtual wave optics",
+    "authors": "Xiaochun Liu, Ibón Guillén, Marco La Manna, Ji Hyun Nam, Syed Azer Reza, Toan Huu Le, Adrian Jarabo, Diego Gutierrez, Andreas Velten",
+    "venue": "Nature",
+    "year": 2019,
+    "pdf": "https://graphics.unizar.es/papers/Liu_2019_Nature.pdf"
+  },  
+  {
+    "title": "Progressive transient photon beams",
+    "authors": "Julio Marco, Ibón Guillén, Wojciech Jarosz, Diego Gutierrez, Adrian Jarabo",
+    "venue": "Computer Graphics Forum",
+    "year": 2019,
+    "pdf": "https://graphics.unizar.es/papers/2019CGF_PTPB.pdf"
+  },
+  {
+    "title": "Transient instant radiosity for efficient time-resolved global illumination",
+    "authors": "Xian Pan, Victor Arellano, Adrian Jarabo",
+    "venue": "Computers & Graphics",
+    "year": 2019,
+    "pdf": "https://graphics.unizar.es/papers/Pan_2019_TransientInstantRadiosity.pdf"
+  },
+  {
+    "title": "Practical real-time strategies for accurate indirect occlusion",
+    "authors": "Jorge Jiménez, Xianchun Wu, Angelo Pesce, Adrian Jarabo",
+    "venue": "Technical Memo ATVI-TR-19-01",
+    "year": 2019,
+    "pdf": "https://www.activision.com/cdn/research/Practical_Real_Time_Strategies_for_Accurate_Indirect_Occlusion_NEW%20VERSION_COLOR.pdf"
+  },
+  {
+    "title": "A dataset for benchmarking time-resolved non-line-of-sight imaging",
+    "authors": "Miguel Galindo, Julio Marco, Matthew O'Toole, Gordon Wetzstein, Diego Gutierrez, Adrian Jarabo",
+    "venue": "SIGGRAPH 2019 Posters",
+    "year": 2019,
+    "pdf": "papers_downloaded/galindo2019dataset.pdf",
+	"code": "https://graphics.unizar.es/nlos_dataset"
+  },
+  {
+    "title": "A radiative transfer framework for spatially-correlated materials",
+    "authors": "Adrian Jarabo, Carlos Aliaga, Diego Gutierrez",
+    "venue": "ACM Trans. Graph.",
+    "year": 2018,
+    "pdf": "https://graphics.unizar.es/papers/Jarabo2018radiative.pdf"
+  },  
+  {
+    "title": "Second-order occlusion-aware volumetric radiance caching",
+    "authors": "Julio Marco, Adrian Jarabo, Wojciech Jarosz, Diego Gutierrez",
+    "venue": "ACM Trans. Graph.",
+    "year": 2018,
+    "pdf": "https://graphics.unizar.es/papers/2018TOG_SecondOrderMediaCaching.pdf"
+  },
+  {
+    "title": "Practical multiple scattering for rough surfaces",
+    "authors": "Joo Ho Lee, Adrian Jarabo, Daniel S Jeon, Diego Gutierrez, Min H Kim",
+    "venue": "ACM Trans. Graph.",
+    "year": 2018,
+    "pdf": "https://graphics.unizar.es/papers/Lee2018practical.pdf"
+  },
+  {
+    "title": "Bidirectional rendering of vector light transport",
+    "authors": "Adrian Jarabo, Victor Arellano",
+    "venue": "Computer Graphics Forum",
+    "year": 2018,
+    "pdf": "https://graphics.unizar.es/papers/Jarabo2018bidirectional.pdf"
+  },
+  {
+    "title": "Adaptive polarization-difference transient imaging for depth estimation in scattering media",
+    "authors": "Rihui Wu, Adrian Jarabo, Jinli Suo, Feng Dai, Yongdong Zhang, Qionghai Dai, Diego Gutierrez",
+    "venue": "Optics Letters",
+    "year": 2018,
+    "pdf": "https://graphics.unizar.es/papers/Wu2018adaptive.pdf"
+  },
+  {
+    "title": "A physically-based spatio-temporal sky model",
+    "authors": "David Guimera, Diego Gutierrez, Adrian Jarabo",
+    "venue": "Proceedings of CEIG",
+    "year": 2018,
+    "pdf": "https://graphics.unizar.es/papers/Guimera2018spatio.pdf",
+	"award": "🏆 Best Paper Award"
+  }, 
+  {
+    "title": "Deeptof: off-the-shelf real-time correction of multipath interference in time-of-flight imaging",
+    "authors": "Julio Marco, Quercus Hernandez, Adolfo Munoz, Yue Dong, Adrian Jarabo, Min H Kim, Xin Tong, Diego Gutierrez",
+    "venue": "ACM Trans. Graph.",
+    "year": 2017,
+    "pdf": "https://graphics.unizar.es/papers/2017SIGA_DeepToF.pdf",
+	"code": "https://webdiis.unizar.es/~juliom/pubs/2017SIGA-DeepToF/release/DeepToF-model.zip"
+  },
+  {
+    "title": "Fast back-projection for non-line of sight reconstruction",
+    "authors": "Victor Arellano, Diego Gutierrez, Adrian Jarabo",
+    "venue": "Optics express",
+    "year": 2017,
+    "pdf": "https://graphics.unizar.es/papers/Arellano2017fast.pdf",
+	"code": "https://github.com/Ivelate/FastBackprojection"
+  },
+  {
+    "title": "Area-preserving parameterizations for spherical ellipses",
+    "authors": "Ibón Guillén, Carlos Ureña, Alan King, Marcos Fajardo, Iliyan Georgiev, Jorge López-Moreno, Adrian Jarabo",
+    "venue": "Computer Graphics Forum",
+    "year": 2017,
+    "pdf": "https://graphics.unizar.es/papers/Guillen_EGSR2017_Spherical_Ellipses.pdf",
+	"code": "https://github.com/iguillens/mitsuba-disk-sampling"
+  },  
+  {
+    "title": "An appearance model for textile fibers",
+    "authors": "Carlos Aliaga, Carlos Castillo, Diego Gutierrez, Miguel A Otaduy, Jorge Lopez-Moreno, Adrian Jarabo",
+    "venue": "Computer Graphics Forum",
+    "year": 2017,
+    "pdf": "https://graphics.unizar.es/papers/aliaga_egsr17.pdf"
+  },  
+  {
+    "title": "Recent advances in transient imaging: A computer graphics and vision perspective",
+    "authors": "Adrian Jarabo, Belen Masia, Julio Marco, Diego Gutierrez",
+    "venue": "Visual Informatics",
+    "year": 2017,
+    "pdf": "https://graphics.unizar.es/papers/jaraboSTARtransient.pdf"
+  },
+  {
+    "title": "Light field image processing: An overview",
+    "authors": "Gaochang Wu, Belen Masia, Adrian Jarabo, Yuchen Zhang, Liangyong Wang, Qionghai Dai, Tianyou Chai, Yebin Liu",
+    "venue": "IEEE Journal of Selected Topics in Signal Processing",
+    "year": 2017,
+    "pdf": "https://graphics.unizar.es/papers/lfov.pdf"
+  },
+  {
+    "title": "Analyzing interfaces and workflows for light field editing",
+    "authors": "Marta Ortin, Adrian Jarabo, Belen Masia, Diego Gutierrez",
+    "venue": "IEEE Journal of Selected Topics in Signal Processing",
+    "year": 2017,
+    "pdf": "https://graphics.unizar.es/papers/Ortin_2017_LightFields_poster.pdf"
+  },
+  {
+    "title": "Transient Photon Beams.",
+    "authors": "Julio Marco, Wojciech Jarosz, Diego Gutierrez, Adrian Jarabo",
+    "venue": "Proceedings of CEIG",
+    "year": 2017,
+    "pdf": "https://graphics.unizar.es/papers/CEIG17_TransientPhotonBeams.pdf",
+	"award": "🏆 Best Paper Award"	
+  },  
+  {
+    "title": "A computational model of a single-photon avalanche diode sensor for transient imaging",
+    "authors": "Quercus Hernandez, Diego Gutierrez, Adrian Jarabo",
+    "venue": "arXiv preprint arXiv:1703.02635",
+    "year": 2017,
+    "pdf": "https://graphics.unizar.es/data/spad/downloads/Hernandez2017spad.pdf",
+	"code":"https://graphics.unizar.es/data/spad/downloads/hdr2spad.zip"
+  },
+  {
+    "title": "Imaging the propagation of light through scenes at picosecond resolution",
+    "authors": "Andreas Velten, Di Wu, Belen Masia, Adrian Jarabo, Christopher Barsi, Chinmaya Joshi, Everett Lawson, Moungi Bawendi, Diego Gutierrez, Ramesh Raskar",
+    "venue": "Communications of the ACM",
+    "year": 2016
+  },
+  {
+    "title": "Practical real-time strategies for accurate indirect occlusion",
+    "authors": "Jorge Jiménez, Xianchun Wu, Angelo Pesce, Adrian Jarabo",
+    "venue": "SIGGRAPH 2016 Courses: Physically Based Shading in Theory and Practice",
+    "year": 2016,
+	"slides": "https://www.activision.com/cdn/research/s2016_pbs_activision_occlusion.pptx"
+  },
+  {
+    "title": "Bidirectional rendering of polarized light transport",
+    "authors": "Adrian Jarabo, Diego Gutierrez",
+    "venue": "Proceedings of CEIG",
+    "year": 2016,
+    "pdf": "https://graphics.unizar.es/papers/bi-polariz.pdf",
+	"award": "🏆 Best Paper Award"		
+  },
+  {
+    "title": "To stylize or not to stylize? The effect of shape and material stylization on the perception of computer-generated faces",
+    "authors": "Eduard Zell, Carlos Aliaga, Adrian Jarabo, Katja Zibrek, Diego Gutierrez, Rachel McDonnell, Mario Botsch",
+    "venue": "ACM Trans. Graph.",
+    "year": 2015,
+    "pdf": "https://www.aliagabadal.com/data/papers/2015_SigAsia_PerceptionCGFaces.pdf"
+  },
+  {
+    "title": "Separable subsurface scattering",
+    "authors": "Jorge Jimenez, Károly Zsolnai, Adrian Jarabo, Christian Freude, Thomas Auzinger, Xian-Chun Wu, Javier von der Pahlen, Michael Wimmer, Diego Gutierrez",
+    "venue": "Computer Graphics Forum",
+    "year": 2015,
+    "pdf": "https://www.cg.tuwien.ac.at/research/publications/2015/Jimenez_SSS_2015/Jimenez_SSS_2015-paper.pdf"
+  },
+  {
+    "title": "Relativistic Effects for Time-Resolved Light Transport",
+    "authors": "Adrian Jarabo, Belen Masia, Andreas Velten, Christopher Barsi, Ramesh Raskar, Diego Gutierrez",
+    "venue": "Computer Graphics Forum",
+    "year": 2015,
+    "pdf": "https://graphics.unizar.es/papers/Jarabo_Relativistic_CGF2015.pdf"
+  },
+  {
+    "title": "A biophysically-based model of the optical properties of skin aging",
+    "authors": "Jose A Iglesias-Guitian, Carlos Aliaga, Adrian Jarabo, Diego Gutierrez",
+    "venue": "Computer Graphics Forum",
+    "year": 2015,
+    "pdf": "https://graphics.unizar.es/papers/Iglesias_eg15.pdf"
+  },  
+  {
+    "title": "Light field editing based on reparameterization",
+    "authors": "Hongbo Ao, Yongbing Zhang, Adrian Jarabo, Belen Masia, Yebin Liu, Diego Gutierrez, Qionghai Dai",
+    "venue": "Pacific Rim Conference on Multimedia",
+    "year": 2015,
+    "pdf": "https://graphics.unizar.es/papers/Ao_2015.pdf"
+  },
+  {
+    "title": "Bidirectional Clustering for Scalable VPL-based Global Illumination.",
+    "authors": "Adrian Jarabo, Raul Buisan, Diego Gutierrez",
+    "venue": "CEIG",
+    "year": 2015,
+    "pdf": "https://graphics.unizar.es/papers/Jarabo_ceig2015.pdf"
+  },
+  {
+    "title": "A framework for transient rendering",
+    "authors": "Adrian Jarabo, Julio Marco, Adolfo Munoz, Raul Buisan, Wojciech Jarosz, Diego Gutierrez",
+    "venue": "ACM Trans. Graph.",
+    "year": 2014,
+    "pdf": "https://graphics.unizar.es/papers/Jarabo_siga14.pdf"
+  },  
+  {
+    "title": "How do people edit light fields?",
+    "authors": "Adrian Jarabo, Belen Masia, Adrien Bousseau, Fabio Pellacini, Diego Gutierrez",
+    "venue": "ACM Trans. Graph.",
+    "year": 2014,
+    "pdf": "https://graphics.unizar.es/papers/Jarabo_sig14.pdf"
+  },
+  {
+    "title": "Effects of approximate filtering on the appearance of bidirectional texture functions",
+    "authors": "Adrian Jarabo, Hongzhi Wu, Julie Dorsey, Holly Rushmeier, Diego Gutierrez",
+    "venue": "IEEE Transactions on Visualization and Computer Graphics",
+    "year": 2014,
+    "pdf": "https://graphics.unizar.es/papers/jarabo_tvcg14.pdf"
+  },
+  {
+    "title": "Femto-photography: capturing and visualizing the propagation of light",
+    "authors": "Andreas Velten, Di Wu, Adrian Jarabo, Belen Masia, Christopher Barsi, Chinmaya Joshi, Everett Lawson, Moungi Bawendi, Diego Gutierrez, Ramesh Raskar",
+    "venue": "ACM Trans. Graph.",
+    "year": 2013,
+    "pdf": "https://graphics.unizar.es/papers/velten_sig13.pdf",
+	"award": "🏆 SIGGRAPH Test-of-time Awards 2024"		
+  },  
+  {
+    "title": "Rendering relativistic effects in transient imaging",
+    "authors": "Adrian Jarabo, Belen Masia, Andreas Velten, Christopher Barsi, Ramesh Raskar, Diego Gutierrez",
+    "venue": "Proceedings of CEIG",
+    "year": 2013,
+    "pdf": "https://graphics.unizar.es/papers/Jarabo_Relativistic_CEIG2013.pdf",
+	"award": "🏆 Best Paper Award"			
+  },
+  {
+    "title": "Separable subsurface scattering and photorealistic eyes rendering",
+    "authors": "Jorge Jimenez, Adrian Jarabo, Diego Gutierrez, E Danvoye, J Von Der Pahlen",
+    "venue": "SIGGRAPH Talks",
+    "year": 2012
+  },
+  {
+    "title": "Femto-Photography: Visualizing Light in Motion",
+    "authors": "Adrian Jarabo",
+    "venue": "Masters Thesis",
+	"year": 2012
+  },
+  {
+    "title": "Crowd light: Evaluating the perceived fidelity of illuminated dynamic scenes",
+    "authors": "Adrian Jarabo, Tom Van Eyck, Veronica Sundstedt, Kavita Bala, Diego Gutierrez, Carol O'Sullivan",
+    "venue": "Computer Graphics Forum",
+    "year": 2012,
+    "pdf": "https://graphics.unizar.es/papers/jarabo_eg12.pdf"
+  },
+  {
+    "title": "Efficient Propagation of Light Field Edits",
+    "authors": "Adrian Jarabo, Belen Masia, Diego Gutierrez",
+    "venue": "SIACG",
+    "year": 2011,
+    "pdf": "https://graphics.unizar.es/papers/lightfields_Jarabo.pdf"
+  }
+]
