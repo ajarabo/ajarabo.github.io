@@ -4,7 +4,7 @@
     "authors": "Philippe Weier, Lukas Bode, Philipp Slusallek, Adrian Jarabo, Sébastien Speierer",
     "venue": "SIGGRAPH",
     "year": 2026,
-    "pdf": "papers_downloaded/weier2026beyond.pdf",
+    "pdf": "https://arxiv.org/pdf/2603.05079",
 	"code": "https://github.com/facebookresearch/spatio_directional_hash_encoding"
   },  
   {
@@ -231,7 +231,6 @@
     "authors": "Miguel Galindo, Julio Marco, Matthew O'Toole, Gordon Wetzstein, Diego Gutierrez, Adrian Jarabo",
     "venue": "SIGGRAPH 2019 Posters",
     "year": 2019,
-    "pdf": "papers_downloaded/galindo2019dataset.pdf",
 	"code": "https://graphics.unizar.es/nlos_dataset"
   },
   {
